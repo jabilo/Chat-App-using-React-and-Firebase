@@ -3,14 +3,14 @@ import { GoogleAuthProvider, signInWithPopup,getAuth } from "firebase/auth";
 import firebase from 'firebase/compat/app'
 
 firebase.initializeApp({  
-    apiKey: "AIzaSyAzxUu-Mey_y_g6hgzJdkDtwFsPMy_pwQI",
-    authDomain: "bilo-chat.firebaseapp.com",
-    projectId: "bilo-chat",
-    storageBucket: "bilo-chat.appspot.com",
-    messagingSenderId: "323417282577",
-    appId: "1:323417282577:web:87d660e0601924a218f9b0",
-    measurementId: "G-K0T7T6R9ME"
-  })
+  apiKey: "---your api key----",
+  authDomain: "---your authdomain----",
+  projectId: "----your project id----",
+  storageBucket: "-----",
+  messagingSenderId: "-------",
+  appId: "----your app id-----",
+  measurementId: "-------"
+})
   
   const auth = getAuth();
   const firestore = firebase.firestore();
