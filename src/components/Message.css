@@ -1,0 +1,21 @@
+/* .right{
+    right: 0px;
+} */
+
+.sent{
+    margin-left: 75%;
+}
+
+.received{
+    margin-left: 0px;
+}
+
+@media (max-width: 480px) {
+   .sent{
+    margin-left: 10%;
+    width: 100px;
+   }
+   .message{
+    width:100px;
+   }
+  }

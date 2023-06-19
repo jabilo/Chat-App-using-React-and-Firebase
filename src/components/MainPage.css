@@ -1,0 +1,19 @@
+main{
+    overflow-y: scroll;
+}
+
+.card{
+    overflow-y: scroll;
+}
+
+.card::-webkit-scrollbar{
+    width: 0.5rem;
+}
+
+.card::-webkit-scrollbar-track{
+    background-color: #1e1e24;
+}
+
+.card::-webkit-scrollbar-thumb{
+    background: #6649b8;
+}
