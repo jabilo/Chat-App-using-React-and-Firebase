@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/jabilo/Chat-App-using-React-and-Firebase/assets/66378384/d741f388-80d3-4620-b718-79953ac33cf6)
+
 
 ## Available Scripts
 
